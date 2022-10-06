@@ -2,3 +2,50 @@ baseURL: http://example.org/
 languageCode: en-us
 title: mi portforio
 theme: portfolio
+author: 
+  facebook: "https://www.facebook.com/profile.php?id=100008299605005" 
+  twitter: "https://twitter.com/example" 
+  email: "contact@example.org" 
+  name: "Acme Corporation" 
+  location: Zaragoza
+  phone: (999) 999-9999 
+  hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
+
+menu:
+  main: 
+    - identifier: about 
+      name: Acerca de 
+      url: /about 
+      weight: 100 
+    - identifier: sobemi_trabjo
+      name: sobemi_trabjo
+      url: /sobemi_trabjo
+      weight: 200 
+    - identifier: miproyecto
+      name: miproyecto
+      url: /miproyecto 
+      weight: 300 
+    - identifier: contact
+      name: Contacto 
+      url: /contacto 
+      weight: 400 
+params: 
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
+  footer:
+  - title: About
+    content: >
+      Acme Corporation is the world's leading
+      manufacturer of digital shapes. From squares and
+      circles to triangles and hexagons, we have it
+      all. Browse through our collection of various
+      forms with different thicknesses and line styles.
+      We shape the world. You live in it.      
+
+
+  - title: Publicaciones recientes
+    recents: blog
+    recentCount: 7
+
+  - title: Contact Us
+    contact: true
