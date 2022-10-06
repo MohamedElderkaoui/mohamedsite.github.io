@@ -7,3 +7,6 @@
 [submodule "themes/minimalist"]
 	path = themes/minimalist
 	url = https://github.com/BDHU/minimalist.git
+[submodule "themes/porthogo"]
+	path = themes/porthogo
+	url = https://github.com/tylerjlawson/port-hugo.git

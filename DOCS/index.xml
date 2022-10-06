@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mi portforio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on mi portforio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Thu, 06 Oct 2022 13:21:21 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/contacto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miproyecto</title>
+      <link>http://example.org/miproyecto/</link>
+      <pubDate>Thu, 06 Oct 2022 13:19:30 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/miproyecto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobemi_trabjo</title>
+      <link>http://example.org/sobemi_trabjo/</link>
+      <pubDate>Thu, 06 Oct 2022 13:18:07 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/sobemi_trabjo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 06 Oct 2022 13:17:13 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
