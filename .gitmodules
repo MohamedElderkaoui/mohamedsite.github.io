@@ -1,3 +1,9 @@
 [submodule "themes/portfolio"]
 	path = themes/portfolio
 	url = https://github.com/wowchemy/starter-hugo-portfolio-theme.git
+[submodule "minimalist"]
+	path = minimalist
+	url = https://github.com/BDHU/minimalist.git
+[submodule "themes/minimalist"]
+	path = themes/minimalist
+	url = https://github.com/BDHU/minimalist.git
