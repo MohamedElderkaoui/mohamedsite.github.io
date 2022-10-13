@@ -13,14 +13,13 @@ ___
 * DNI: 27396531N
 * Fecha de nacimiento:27/01/1998
 * Lugar de nacimiento: mohamedia, Mascara, Argelia    
-* Lugar de nacimiento: mohamedia, Mascara, Argelia    
 * Dirección: C. Doctor Fleming nº12 3ºizq
 * Localidad: Ejea de los Caballeros
 * Provinicia: Zaragoza
 * Teléfono: 635 86 72 72
 * Teléfono 2: 676768066
 * E-mail: mderkaoui10@gmail.com
-*  git ;[aqui](https://github.com/MohamedElderkaoui)
+* git ;[aqui](https://github.com/MohamedElderkaoui)
 ****
 ## Formación y estudios
 ****
@@ -48,5 +47,5 @@ Poseo Bachillerato de Ciencias (septiembre de 2015-mayo de 2019)
 
 ****
 
-Experiencia Laboral
-He trabajado en la fct abril de 2024 al junio 2024                             
+## Experiencia Laboral
+He trabajado en la fct abril de 2024 al junio 2024
