@@ -5,6 +5,7 @@ hero:
   # animated text loop
   occupations:
     - 'Web Developer'
+    - 'i`m ejeana'  
 
   # hero background image
   bg_image: 'images/background.jpg'
