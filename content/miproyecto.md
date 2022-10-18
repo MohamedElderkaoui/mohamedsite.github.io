@@ -1471,7 +1471,7 @@ public class Principal {
 }
 
 ```
-{{<juegos>}}
+
 ## he trabajado con 
 # sql
 ```sql

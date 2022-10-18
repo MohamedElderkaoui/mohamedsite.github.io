@@ -23,7 +23,7 @@
       <pubDate>Thu, 06 Oct 2022 13:19:30 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/miproyecto/</guid>
-      <description></description>
+      <description>he trabajado con java y javadoc y junittext package Funcion; /** * * @author Mohamed el Derkaoui Merzouk Bendoukha 1iN_DAWD * */ public class Utilidad { /** * * @param width * @param s * @return */ public static String c(int width, String s) { return String.format(&amp;#34;%-&amp;#34; + width + &amp;#34;s&amp;#34;, String.format(&amp;#34;%&amp;#34; + (s.length() + (width - s.length()) / 2) + &amp;#34;s&amp;#34;, s)); } public static String c(int width, int s) { return String.</description>
     </item>
     
     <item>
